@@ -1,1 +1,1 @@
-employee management system (CRUD) using python django framework.
+employee management system (CRUD) using python django framework
